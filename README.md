@@ -1,0 +1,1 @@
+# gadede-qrcode
